@@ -1,0 +1,21 @@
+@import 'base.css';
+@import 'skeleton.css';
+@import 'layout.css';
+
+.container {
+	text-align: center;
+}
+.header {
+	height: 100px;
+	background: #dbdbdb;
+	width: 100%
+	z-index:10;
+	
+}
+.hero {
+	height: 500px;
+	width:100%;
+	position: fixed;
+	background: #707070;
+	
+}
